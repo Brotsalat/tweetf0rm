@@ -1,0 +1,19 @@
+{
+	"apikeys": {
+		"brotsalat" :{
+			"app_key":"h4wHvae1py3ANqAG9kra9Yf6R",
+			"app_secret":"qsjrBg38fzv1M8So38qdArMUl1jOn3lLHQRToGHbIOmIiuVgra",
+			"oauth_token":"90705951-pYsvMS7YdvBToqAzaSQsHROjqnORxuR2FilQ4Nqsb",
+			"oauth_token_secret":"xqUEXAe04JrqiP8KyIcX75QagWYaEU2EVPrqwq43vbXGg"
+		}
+	},
+	"redis_config": {
+		"host": "localhost",
+		"port": 6379,
+		"db": 0,
+		"password": "PASSWORD"
+	},
+	"verbose": "True",
+	"output": "./data",
+	"archive_output": "./data"
+}
